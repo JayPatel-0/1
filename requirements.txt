@@ -1,0 +1,6 @@
+streamlit
+pandas
+plotly
+nselib
+smartapi-python
+matplotlib
